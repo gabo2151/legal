@@ -6,7 +6,7 @@ This repository serves as the centralized hub for public documentation, legal po
 
 | Project                                                        | Last Updated |
 |:---------------------------------------------------------------|:-------------|
-| [**Pocket LAN Party**](./privacy-policies/pocket-lan-party.md) | 2026-10-10   |
+| [**Pocket LAN Party**](./privacy-policies/pocket-lan-party.md) | 2026-10-12   |
 | [**Pudú Watchface**](./privacy-policies/pudu-watchface.md)     | 2026-04-19   |
 | [**RaMA App**](./privacy-policies/rama-app.md)                 | 2025-11-19   |
 
