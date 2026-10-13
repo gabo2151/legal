@@ -20,7 +20,7 @@ When you host or join a match, the App connects directly to the other players' d
 ### 4. Third-Party Services
 The App uses the following third-party services, which process data under their own privacy policies:
 * **Firebase Crashlytics (Google):** if the App crashes, it sends a crash report (device model, operating system version, app version, a random installation identifier and technical details of the error) so we can fix it. Crash reports do not contain your player name or the content of your games. [Firebase privacy information](https://firebase.google.com/support/privacy)
-* **Google AdMob:** may show ads in the App. AdMob may collect device identifiers and usage data to serve and measure ads. Where required by law (e.g. in the European Economic Area and the United Kingdom), the App asks for your consent before personalized ads are shown, and you can change your choice from the App's settings. [Google privacy policy](https://policies.google.com/privacy)
+* **Google AdMob:** shows an optional ad you choose to watch to unlock in-game boosts. AdMob may collect your device's advertising identifier (the Android Advertising ID or, on iOS, the IDFA if you allow it), other device identifiers and usage data to serve and measure ads. Nothing ad-related runs until you first ask to watch an ad. Where required by law (e.g. in the European Economic Area, the United Kingdom and Switzerland), the App asks for your consent before personalized ads are shown, and you can change your choice from the App's settings; if you decline, you may still see non-personalized ads. On iOS, the App asks for permission to track you (App Tracking Transparency) before AdMob can use the IDFA; if you decline, ads are not personalized. You can also reset or delete your advertising ID in your device settings. [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites) · [Google privacy policy](https://policies.google.com/privacy)
 * **Google Play / Apple App Store:** process the optional "Remove ads" purchase. We do not receive or store your payment information; the App only asks the store whether the purchase is owned.
 
 ### 5. Contacting Us
@@ -29,6 +29,8 @@ If you contact us by email (for example, from the beta "Report a bug or idea" bu
 ### 6. Device Permissions
 * **Internet / network access:** used for local network play, ads and crash reports.
 * **Local network (iOS):** used only to find and connect to other players' devices on your Wi-Fi network for multiplayer matches.
+* **Advertising ID (Android):** read by AdMob to serve and measure ads, as described in section 4.
+* **Tracking (iOS, App Tracking Transparency):** asked only the first time you choose to watch an ad; you can change it at any time in Settings > Privacy & Security > Tracking.
 
 These permissions are **never** used to collect data regarding your location, contacts or files.
 
