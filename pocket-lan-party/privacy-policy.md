@@ -1,6 +1,6 @@
 # Privacy Policy - Pocket LAN Party
 
-**Last updated:** October 12, 2026
+**Last updated:** October 18, 2026
 
 This Privacy Policy explains how **GGalilea** ("we", "our") handles your information when you use the mobile application **Pocket LAN Party** ("the App").
 
@@ -19,18 +19,18 @@ When you host or join a match, the App connects directly to the other players' d
 
 ### 4. Third-Party Services
 The App uses the following third-party services, which process data under their own privacy policies:
-* **Firebase Crashlytics (Google):** if the App crashes, it sends a crash report (device model, operating system version, app version, a random installation identifier and technical details of the error) so we can fix it. Crash reports do not contain your player name or the content of your games. [Firebase privacy information](https://firebase.google.com/support/privacy)
-* **Google AdMob:** shows an optional ad you choose to watch to unlock in-game boosts. AdMob may collect your device's advertising identifier (the Android Advertising ID or, on iOS, the IDFA if you allow it), other device identifiers and usage data to serve and measure ads. Nothing ad-related runs until you first ask to watch an ad. Where required by law (e.g. in the European Economic Area, the United Kingdom and Switzerland), the App asks for your consent before personalized ads are shown, and you can change your choice from the App's settings; if you decline, you may still see non-personalized ads. On iOS, the App asks for permission to track you (App Tracking Transparency) before AdMob can use the IDFA; if you decline, ads are not personalized. You can also reset or delete your advertising ID in your device settings. [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites) · [Google privacy policy](https://policies.google.com/privacy)
+* **Sentry (Functional Software, Inc.):** if the App crashes or hits an error, it sends an error report (device model, operating system version, app version, a random installation identifier and technical details of the error) so we can fix it. Reports are stored in the European Union and do not contain your player name, your IP address or the content of your games. [Sentry privacy policy](https://sentry.io/privacy/)
+* **Google AdMob:** shows a small banner ad at the bottom of the menus and results screens (never during a race), starting after your first race, and an optional ad you choose to watch to unlock in-game boosts. AdMob may collect your device's advertising identifier (the Android Advertising ID or, on iOS, the IDFA if you allow it), other device identifiers and usage data to serve and measure ads. Nothing ad-related runs until the App first shows an ad: after your first race, or when you first choose to watch one. Where required by law (e.g. in the European Economic Area, the United Kingdom and Switzerland), the App asks for your consent before personalized ads are shown, and you can change your choice from the App's settings; if you decline, you may still see non-personalized ads. On iOS, the App asks for permission to track you (App Tracking Transparency) before AdMob can use the IDFA; if you decline, ads are not personalized. You can also reset or delete your advertising ID in your device settings. [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites) · [Google privacy policy](https://policies.google.com/privacy)
 * **Google Play / Apple App Store:** process the optional "Remove ads" purchase. We do not receive or store your payment information; the App only asks the store whether the purchase is owned.
 
 ### 5. Contacting Us
 If you contact us by email (for example, from the beta "Report a bug or idea" button), we use your address and message only to reply and to improve the App.
 
 ### 6. Device Permissions
-* **Internet / network access:** used for local network play, ads and crash reports.
+* **Internet / network access:** used for local network play, ads and error reports.
 * **Local network (iOS):** used only to find and connect to other players' devices on your Wi-Fi network for multiplayer matches.
 * **Advertising ID (Android):** read by AdMob to serve and measure ads, as described in section 4.
-* **Tracking (iOS, App Tracking Transparency):** asked only the first time you choose to watch an ad; you can change it at any time in Settings > Privacy & Security > Tracking.
+* **Tracking (iOS, App Tracking Transparency):** asked only once, the first time the App is about to show an ad (after your first race, or when you choose to watch one); you can change it at any time in Settings > Privacy & Security > Tracking.
 
 These permissions are **never** used to collect data regarding your location, contacts or files.
 
